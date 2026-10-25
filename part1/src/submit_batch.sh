@@ -1,4 +1,3 @@
-
 #!/bin/bash
 #SBATCH --job-name=lorenz_batch
 #SBATCH --account=see260003p
